@@ -41,7 +41,7 @@ Contributing
 adding more css
 
 link
-Repo: https://github.com/giocordova20/project2
+Repo: https://tuppince24.github.io/enployedtower/.
 
 Deployed APP:
 
